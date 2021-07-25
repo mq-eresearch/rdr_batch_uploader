@@ -1,0 +1,445 @@
+Title,RDR Project ID,Description,Authors,Categories,Keywords,License,Funding,References,Resource Title,Resource DOI,Research Project ID,Research Project URL,Item type,Data Sensitivity,Q/A Log,FAIR Self Assessment Rating,FAIR Self Assessment Summary
+Optically Injected Solid-state Laser - Simulation,119726,Simulated output power time series from a model of an optically injected 1064 nm solid-state Nd:YVO4 microchip laser. Time series generated for different combinations of injection strength and optical frequency detuning. Full details here http://research.science.mq.edu.au/photonics-dynamical-systems/our-research/optically-injected-solid-state-lasers/. The data is stored in HDF5 file format. For information on how to access data in this format see https://research.science.mq.edu.au/photonics-dynamical-systems/open-science-web-database/using-hdf5-files/. Additional information can be found in the included metadata.json file.,Asa Lindberg;Joshua P. Toomey,186;905,Solid-state Laser;Optical Injection,1,Science and Industry Endowment Fund (http://www.sief.org.au ),http://research.science.mq.edu.au/photonics-dynamical-systems/our-research;https://research.science.mq.edu.au/photonics-dynamical-systems/open-science-web-database/using-hdf5-files/;https://mq.edu.au,Numerical stability maps of an optically injected semiconductor laser,10.1016/j.optcom.2004.09.009,64177748,https://researchers.mq.edu.au/en/projects/4f12b5f6-0de8-432d-95c4-99727ce7c6b6,dataset,General,Institutional review completed;FAIR assessment completed,5 Stars,"This text has been generated from a tool that has been adapted from the ARDC FAIR Assessment Tool
+
+Findable
+--------
+Does the dataset have any identifiers assigned?
+Globally Unique, citable and persistent (e.g. DOI, PURL, ARK or Handle
+
+Is the dataset identifier included in all metadata records/files describing the data?</p>
+No
+
+How is the data described with metadata?
+Comprehensively, but in a text-based, non-standard format
+
+What type of repository or registry is the metadata record in?
+Data is in one place but discoverable through several registries
+
+Accessible
+----------
+How accessible is the data?
+Publicly accessible
+
+Is the data available online without requiring specialised protocols or tools once access has been approved?
+Standard web service API (e.g. OGC)
+
+Will the metadata record be available even if the data is no longer available?
+Yes
+
+Interoperable
+-------------
+What (file) format(s) is the data available in?
+In a structured, open standard, non-machine-readable format
+
+What best describes the types of vocabularies/ontologies/tagging schemas used to define the data elements?
+Standardised vocabularies/ontologies/schema without global identifiers
+
+How is the metadata linked to other data and metadata (to enhance context and clearly indicate relationships)?
+The metadata record includes URI links to related metadata, data and definitions
+
+Reusable
+--------
+Which of the following best describes the license/usage rights attached to the data?
+Standard machine-readable license (e.g. Creative Commons)
+
+How much provenance information has been captured to facilitate data reuse?
+Fully recorded in a machine-readable format
+"
+Semiconductor Laser with Optical Feedback - Bulk - 4GHz Detection BW,119726,"Output power time series from an edge-emitting, multiple quantum well 830nm semiconductor laser subject to optical feedback. Time series recorded for different combinations of optical feedback level and laser injection current. Detection bandwidth 4 GHz and sampling rate 20 GSa/s.
+
+Full details here http://research.science.mq.edu.au/photonics-dynamical-systems/our-research/semiconductor-lasers-with-optical-feedback/bulk-optic-4-ghz-bw/
+
+The data is stored in HDF5 file format. For information on how to access data in this format see https://research.science.mq.edu.au/photonics-dynamical-systems/open-science-web-database/using-hdf5-files/. 
+Additional information can be found in the included metadata.json file.",Joshua P. Toomey,186;905,Semiconductor Laser;Optical Feedback,1,Science and Industry Endowment Fund (http://www.sief.org.au ),http://research.science.mq.edu.au/photonics-dynamical-systems/our-research;https://research.science.mq.edu.au/photonics-dynamical-systems/open-science-web-database/using-hdf5-files/;https://research.science.mq.edu.au/photonics-dynamical-systems/our-research/semiconductor-lasers-with-optical-feedback/bulk-optic-4-ghz-bw/;https://mq.edu.au,Mapping the dynamic complexity of a semiconductor laser with optical feedback using permutation entropy,10.1364/OE.22.001713,64177748,https://researchers.mq.edu.au/en/projects/4f12b5f6-0de8-432d-95c4-99727ce7c6b6,dataset,General,Institutional review completed;FAIR assessment completed,5 Stars,"This text has been generated from a tool that has been adapted from the ARDC FAIR Assessment Tool
+
+Findable
+--------
+Does the dataset have any identifiers assigned?
+Globally Unique, citable and persistent (e.g. DOI, PURL, ARK or Handle
+
+Is the dataset identifier included in all metadata records/files describing the data?</p>
+No
+
+How is the data described with metadata?
+Comprehensively, but in a text-based, non-standard format
+
+What type of repository or registry is the metadata record in?
+Data is in one place but discoverable through several registries
+
+Accessible
+----------
+How accessible is the data?
+Publicly accessible
+
+Is the data available online without requiring specialised protocols or tools once access has been approved?
+Standard web service API (e.g. OGC)
+
+Will the metadata record be available even if the data is no longer available?
+Yes
+
+Interoperable
+-------------
+What (file) format(s) is the data available in?
+In a structured, open standard, non-machine-readable format
+
+What best describes the types of vocabularies/ontologies/tagging schemas used to define the data elements?
+Standardised vocabularies/ontologies/schema without global identifiers
+
+How is the metadata linked to other data and metadata (to enhance context and clearly indicate relationships)?
+The metadata record includes URI links to related metadata, data and definitions
+
+Reusable
+--------
+Which of the following best describes the license/usage rights attached to the data?
+Standard machine-readable license (e.g. Creative Commons)
+
+How much provenance information has been captured to facilitate data reuse?
+Fully recorded in a machine-readable format"
+Semiconductor Laser with Optical Feedback - Integrated Device - 12GHz Detection BW,119726,"Output power time series from a 4-section photonic integrated circuit (PIC) laser. The device consists of a 300 um long DFB laser section, a 200 um feedback control section, a 150 um phase control section and a 1 cm long passive waveguide section which has a high reflective coating on the end facet to provide optical feedback. Time series recorded for different combinations of optical feedback level, optical feedback phase and laser injection current. Detection bandwidth is 12 GHz and sampling rate 40 GSa/s.
+
+Full description here http://research.science.mq.edu.au/photonics-dynamical-systems/our-research/semiconductor-lasers-with-optical-feedback/integrated-12-ghz-bw/
+
+The data is stored in HDF5 file format. For information on how to access data in this format see https://research.science.mq.edu.au/photonics-dynamical-systems/open-science-web-database/using-hdf5-files/. ",Apostolos Argyris;Joshua P. Toomey,186;905,Semiconductor Laser;Optical Feedback,1,Science and Industry Endowment Fund (http://www.sief.org.au ),http://research.science.mq.edu.au/photonics-dynamical-systems/our-research;https://research.science.mq.edu.au/photonics-dynamical-systems/open-science-web-database/using-hdf5-files/;http://research.science.mq.edu.au/photonics-dynamical-systems/our-research/semiconductor-lasers-with-optical-feedback/integrated-12-ghz-bw/;https://mq.edu.au,Photonic Integrated Device for Chaos Applications in Communications,10.1364/OE.23.018754,64177748,https://researchers.mq.edu.au/en/projects/4f12b5f6-0de8-432d-95c4-99727ce7c6b7,dataset,General,Institutional review completed;FAIR assessment completed,5 Stars,"This text has been generated from a tool that has been adapted from the ARDC FAIR Assessment Tool
+
+Findable
+--------
+Does the dataset have any identifiers assigned?
+Globally Unique, citable and persistent (e.g. DOI, PURL, ARK or Handle
+
+Is the dataset identifier included in all metadata records/files describing the data?</p>
+No
+
+How is the data described with metadata?
+Comprehensively, but in a text-based, non-standard format
+
+What type of repository or registry is the metadata record in?
+Data is in one place but discoverable through several registries
+
+Accessible
+----------
+How accessible is the data?
+Publicly accessible
+
+Is the data available online without requiring specialised protocols or tools once access has been approved?
+Standard web service API (e.g. OGC)
+
+Will the metadata record be available even if the data is no longer available?
+Yes
+
+Interoperable
+-------------
+What (file) format(s) is the data available in?
+In a structured, open standard, non-machine-readable format
+
+What best describes the types of vocabularies/ontologies/tagging schemas used to define the data elements?
+Standardised vocabularies/ontologies/schema without global identifiers
+
+How is the metadata linked to other data and metadata (to enhance context and clearly indicate relationships)?
+The metadata record includes URI links to related metadata, data and definitions
+
+Reusable
+--------
+Which of the following best describes the license/usage rights attached to the data?
+Standard machine-readable license (e.g. Creative Commons)
+
+How much provenance information has been captured to facilitate data reuse?
+Fully recorded in a machine-readable format"
+Semiconductor Laser with Optical Feedback - Bulk - 4GHz Detection BW - Optical Spectra,119726,"Output power time series and optical spectra from an edge-emitting, multiple quantum well 830nm semiconductor laser subject to optical feedback. Data recorded for different combinations of optical feedback level and laser injection current. Detection bandwidth 4 GHz and sampling rate 20 GSa/s.
+
+Full details here http://research.science.mq.edu.au/photonics-dynamical-systems/our-research/semiconductor-lasers-with-optical-feedback/bulk-optic-4-ghz-bw-osa/
+
+The data is stored in HDF5 file format. For information on how to access data in this format see https://research.science.mq.edu.au/photonics-dynamical-systems/open-science-web-database/using-hdf5-files/. 
+Additional information can be found in the included metadata.json file.",Joshua P. Toomey,186;905,Semiconductor Laser;Optical Feedback,1,Science and Industry Endowment Fund (http://www.sief.org.au ),http://research.science.mq.edu.au/photonics-dynamical-systems/our-research;http://research.science.mq.edu.au/photonics-dynamical-systems/our-research/semiconductor-lasers-with-optical-feedback/bulk-optic-4-ghz-bw-osa/;https://mq.edu.au,Mapping the dynamic complexity of a semiconductor laser with optical feedback using permutation entropy,10.1364/OE.22.001713,64177748,https://researchers.mq.edu.au/en/projects/4f12b5f6-0de8-432d-95c4-99727ce7c6b6,dataset,General,Institutional review completed;FAIR assessment completed,5 Stars,"This text has been generated from a tool that has been adapted from the ARDC FAIR Assessment Tool
+
+Findable
+--------
+Does the dataset have any identifiers assigned?
+Globally Unique, citable and persistent (e.g. DOI, PURL, ARK or Handle
+
+Is the dataset identifier included in all metadata records/files describing the data?</p>
+No
+
+How is the data described with metadata?
+Comprehensively, but in a text-based, non-standard format
+
+What type of repository or registry is the metadata record in?
+Data is in one place but discoverable through several registries
+
+Accessible
+----------
+How accessible is the data?
+Publicly accessible
+
+Is the data available online without requiring specialised protocols or tools once access has been approved?
+Standard web service API (e.g. OGC)
+
+Will the metadata record be available even if the data is no longer available?
+Yes
+
+Interoperable
+-------------
+What (file) format(s) is the data available in?
+In a structured, open standard, non-machine-readable format
+
+What best describes the types of vocabularies/ontologies/tagging schemas used to define the data elements?
+Standardised vocabularies/ontologies/schema without global identifiers
+
+How is the metadata linked to other data and metadata (to enhance context and clearly indicate relationships)?
+The metadata record includes URI links to related metadata, data and definitions
+
+Reusable
+--------
+Which of the following best describes the license/usage rights attached to the data?
+Standard machine-readable license (e.g. Creative Commons)
+
+How much provenance information has been captured to facilitate data reuse?
+Fully recorded in a machine-readable format"
+Semiconductor Laser with Optical Feedback - Bulk - 16GHz Detection Bandwidth - Temperature Variation,119726,"Output power time series from an edge-emitting, multiple quantum well 830nm semiconductor laser subject to optical feedback. Time series recorded for different combinations of optical feedback level, laser injection current and device temperature. Detection bandwidth 16 GHz and sampling rate 50 GSa/s.
+
+Full details here http://research.science.mq.edu.au/photonics-dynamical-systems/our-research/semiconductor-lasers-with-optical-feedback/bulk-optic-16-ghz-bw-temperature/
+
+The data is stored in HDF5 file format. For information on how to access data in this format see https://research.science.mq.edu.au/photonics-dynamical-systems/open-science-web-database/using-hdf5-files/. 
+Additional information can be found in the included metadata.json file.",Joshua P. Toomey,186;905,Semiconductor Laser;Optical Feedback,1,Science and Industry Endowment Fund (http://www.sief.org.au ),http://research.science.mq.edu.au/photonics-dynamical-systems/our-research;http://research.science.mq.edu.au/photonics-dynamical-systems/our-research/semiconductor-lasers-with-optical-feedback/bulk-optic-16-ghz-bw-temperature/;https://mq.edu.au,,,64177748,https://researchers.mq.edu.au/en/projects/4f12b5f6-0de8-432d-95c4-99727ce7c6b6,dataset,General,Institutional review completed;FAIR assessment completed,5 Stars,"This text has been generated from a tool that has been adapted from the ARDC FAIR Assessment Tool
+
+Findable
+--------
+Does the dataset have any identifiers assigned?
+Globally Unique, citable and persistent (e.g. DOI, PURL, ARK or Handle
+
+Is the dataset identifier included in all metadata records/files describing the data?</p>
+No
+
+How is the data described with metadata?
+Comprehensively, but in a text-based, non-standard format
+
+What type of repository or registry is the metadata record in?
+Data is in one place but discoverable through several registries
+
+Accessible
+----------
+How accessible is the data?
+Publicly accessible
+
+Is the data available online without requiring specialised protocols or tools once access has been approved?
+Standard web service API (e.g. OGC)
+
+Will the metadata record be available even if the data is no longer available?
+Yes
+
+Interoperable
+-------------
+What (file) format(s) is the data available in?
+In a structured, open standard, non-machine-readable format
+
+What best describes the types of vocabularies/ontologies/tagging schemas used to define the data elements?
+Standardised vocabularies/ontologies/schema without global identifiers
+
+How is the metadata linked to other data and metadata (to enhance context and clearly indicate relationships)?
+The metadata record includes URI links to related metadata, data and definitions
+
+Reusable
+--------
+Which of the following best describes the license/usage rights attached to the data?
+Standard machine-readable license (e.g. Creative Commons)
+
+How much provenance information has been captured to facilitate data reuse?
+Fully recorded in a machine-readable format
+"
+Semiconductor Laser with Optical Feedback - Bulk - 16GHz Detection Bandwidth,119726,"Output power time series from an edge-emitting, multiple quantum well 830nm semiconductor laser subject to optical feedback. Time series recorded for different combinations of optical feedback level and laser injection current. Detection bandwidth 16 GHz and sampling rate 50 GSa/s.
+
+Full details here https://research.science.mq.edu.au/photonics-dynamical-systems/our-research/semiconductor-lasers-with-optical-feedback/bulk-optic-16-ghz-bw/
+
+The data is stored in HDF5 file format. For information on how to access data in this format see https://research.science.mq.edu.au/photonics-dynamical-systems/open-science-web-database/using-hdf5-files/. 
+Additional information can be found in the included metadata.json file.",Joshua P. Toomey,186;905,Semiconductor Laser;Optical Feedback,1,Science and Industry Endowment Fund (http://www.sief.org.au ),http://research.science.mq.edu.au/photonics-dynamical-systems/our-research;https://research.science.mq.edu.au/photonics-dynamical-systems/our-research/semiconductor-lasers-with-optical-feedback/bulk-optic-16-ghz-bw/;https://mq.edu.au,Mapping the dynamic complexity of a semiconductor laser with optical feedback using permutation entropy,10.1364/OE.22.001713,64177748,https://researchers.mq.edu.au/en/projects/4f12b5f6-0de8-432d-95c4-99727ce7c6b6,dataset,General,Institutional review completed;FAIR assessment completed,5 Stars,"This text has been generated from a tool that has been adapted from the ARDC FAIR Assessment Tool
+
+Findable
+--------
+Does the dataset have any identifiers assigned?
+Globally Unique, citable and persistent (e.g. DOI, PURL, ARK or Handle
+
+Is the dataset identifier included in all metadata records/files describing the data?</p>
+No
+
+How is the data described with metadata?
+Comprehensively, but in a text-based, non-standard format
+
+What type of repository or registry is the metadata record in?
+Data is in one place but discoverable through several registries
+
+Accessible
+----------
+How accessible is the data?
+Publicly accessible
+
+Is the data available online without requiring specialised protocols or tools once access has been approved?
+Standard web service API (e.g. OGC)
+
+Will the metadata record be available even if the data is no longer available?
+Yes
+
+Interoperable
+-------------
+What (file) format(s) is the data available in?
+In a structured, open standard, non-machine-readable format
+
+What best describes the types of vocabularies/ontologies/tagging schemas used to define the data elements?
+Standardised vocabularies/ontologies/schema without global identifiers
+
+How is the metadata linked to other data and metadata (to enhance context and clearly indicate relationships)?
+The metadata record includes URI links to related metadata, data and definitions
+
+Reusable
+--------
+Which of the following best describes the license/usage rights attached to the data?
+Standard machine-readable license (e.g. Creative Commons)
+
+How much provenance information has been captured to facilitate data reuse?
+Fully recorded in a machine-readable format
+"
+Optically Injected Solid-state Laser - Experiment,119726,"Output power time series from an optically injected 1064 nm solid-state Nd:YVO4 microchip laser. Time series recorded for different combinations of injection strength and optical frequency detuning.
+
+Full details here http://research.science.mq.edu.au/photonics-dynamical-systems/our-research/optically-injected-solid-state-lasers/
+
+The data is stored in HDF5 file format. For information on how to access data in this format see https://research.science.mq.edu.au/photonics-dynamical-systems/open-science-web-database/using-hdf5-files/. 
+Additional information can be found in the included metadata.json file.",Asa Lindberg;Joshua P. Toomey,186;905,Solid-state Laser;Optical Injection,1,Science and Industry Endowment Fund (http://www.sief.org.au ),http://research.science.mq.edu.au/photonics-dynamical-systems/our-research;https://research.science.mq.edu.au/photonics-dynamical-systems/open-science-web-database/using-hdf5-files/;https://mq.edu.au,Automated correlation dimension analysis of optically injected solid state lasers,10.1364/OE.17.007592,64177748,https://researchers.mq.edu.au/en/projects/4f12b5f6-0de8-432d-95c4-99727ce7c6b6,dataset,General,Institutional review completed;FAIR assessment completed,5 Stars,"This text has been generated from a tool that has been adapted from the ARDC FAIR Assessment Tool
+
+Findable
+--------
+Does the dataset have any identifiers assigned?
+Globally Unique, citable and persistent (e.g. DOI, PURL, ARK or Handle
+
+Is the dataset identifier included in all metadata records/files describing the data?</p>
+No
+
+How is the data described with metadata?
+Comprehensively, but in a text-based, non-standard format
+
+What type of repository or registry is the metadata record in?
+Data is in one place but discoverable through several registries
+
+Accessible
+----------
+How accessible is the data?
+Publicly accessible
+
+Is the data available online without requiring specialised protocols or tools once access has been approved?
+Standard web service API (e.g. OGC)
+
+Will the metadata record be available even if the data is no longer available?
+Yes
+
+Interoperable
+-------------
+What (file) format(s) is the data available in?
+In a structured, open standard, non-machine-readable format
+
+What best describes the types of vocabularies/ontologies/tagging schemas used to define the data elements?
+Standardised vocabularies/ontologies/schema without global identifiers
+
+How is the metadata linked to other data and metadata (to enhance context and clearly indicate relationships)?
+The metadata record includes URI links to related metadata, data and definitions
+
+Reusable
+--------
+Which of the following best describes the license/usage rights attached to the data?
+Standard machine-readable license (e.g. Creative Commons)
+
+How much provenance information has been captured to facilitate data reuse?
+Fully recorded in a machine-readable format
+"
+Semiconductor Laser with Optical Feedback - Integrated 3-Section Device - 12.5GHz Detection BW,119726,"Time series data of the output power of monolithically integrated 3-section InGaAs/GaAs semiconductor laser devices. Devices manufactured by Pawel Sajewicz (pawel.sajewicz75@gmail.com) at ANU.
+
+The data is stored in HDF5 file format. For information on how to access data in this format see https://research.science.mq.edu.au/photonics-dynamical-systems/open-science-web-database/using-hdf5-files/. 
+Additional information can be found in the included metadata.json file.",J. P. Toomey;P. Sajewicz;D. M. Kane;L. Fu;H. H. Tan;K. Vora;C. Jagadish,186;905,Semiconductor Laser;Optical Feedback,1,Science and Industry Endowment Fund (http://www.sief.org.au ),http://research.science.mq.edu.au/photonics-dynamical-systems/our-research;https://mq.edu.au,Monolithically integrated multi-section semiconductor laser by selective area quantum well intermixing,10.1109/COMMAD.2012.6472398,64177748,https://researchers.mq.edu.au/en/projects/4f12b5f6-0de8-432d-95c4-99727ce7c6b6,dataset,General,Institutional review completed;FAIR assessment completed,5 Stars,"This text has been generated from a tool that has been adapted from the ARDC FAIR Assessment Tool
+
+Findable
+--------
+Does the dataset have any identifiers assigned?
+Globally Unique, citable and persistent (e.g. DOI, PURL, ARK or Handle
+
+Is the dataset identifier included in all metadata records/files describing the data?</p>
+No
+
+How is the data described with metadata?
+Comprehensively, but in a text-based, non-standard format
+
+What type of repository or registry is the metadata record in?
+Data is in one place but discoverable through several registries
+
+Accessible
+----------
+How accessible is the data?
+Publicly accessible
+
+Is the data available online without requiring specialised protocols or tools once access has been approved?
+Standard web service API (e.g. OGC)
+
+Will the metadata record be available even if the data is no longer available?
+Yes
+
+Interoperable
+-------------
+What (file) format(s) is the data available in?
+In a structured, open standard, non-machine-readable format
+
+What best describes the types of vocabularies/ontologies/tagging schemas used to define the data elements?
+Standardised vocabularies/ontologies/schema without global identifiers
+
+How is the metadata linked to other data and metadata (to enhance context and clearly indicate relationships)?
+The metadata record includes URI links to related metadata, data and definitions
+
+Reusable
+--------
+Which of the following best describes the license/usage rights attached to the data?
+Standard machine-readable license (e.g. Creative Commons)
+
+How much provenance information has been captured to facilitate data reuse?
+Fully recorded in a machine-readable format
+"
+Low Bandwidth,119726,"Output power time series from an edge-emitting, multiple quantum well 830nm semiconductor laser subject to optical feedback. Time series recorded for different combinations of optical feedback level and laser injection current. Detection bandwidth 4 GHz and sampling rate 20 GSa/s. 
+Additional information can be found in the included metadata.json file.",Joshua P. Toomey,186;905,Semiconductor Laser;Optical Feedback,1,Science and Industry Endowment Fund (http://www.sief.org.au ),http://research.science.mq.edu.au/photonics-dynamical-systems/our-research;https://mq.edu.au,,,64177748,https://researchers.mq.edu.au/en/projects/4f12b5f6-0de8-432d-95c4-99727ce7c6b6,dataset,General,Institutional review completed;FAIR assessment completed,5 Stars,"This text has been generated from a tool that has been adapted from the ARDC FAIR Assessment Tool
+
+Findable
+--------
+Does the dataset have any identifiers assigned?
+Globally Unique, citable and persistent (e.g. DOI, PURL, ARK or Handle
+
+Is the dataset identifier included in all metadata records/files describing the data?</p>
+No
+
+How is the data described with metadata?
+Comprehensively, but in a text-based, non-standard format
+
+What type of repository or registry is the metadata record in?
+Data is in one place but discoverable through several registries
+
+Accessible
+----------
+How accessible is the data?
+Publicly accessible
+
+Is the data available online without requiring specialised protocols or tools once access has been approved?
+Standard web service API (e.g. OGC)
+
+Will the metadata record be available even if the data is no longer available?
+Yes
+
+Interoperable
+-------------
+What (file) format(s) is the data available in?
+In a structured, open standard, non-machine-readable format
+
+What best describes the types of vocabularies/ontologies/tagging schemas used to define the data elements?
+Standardised vocabularies/ontologies/schema without global identifiers
+
+How is the metadata linked to other data and metadata (to enhance context and clearly indicate relationships)?
+The metadata record includes URI links to related metadata, data and definitions
+
+Reusable
+--------
+Which of the following best describes the license/usage rights attached to the data?
+Standard machine-readable license (e.g. Creative Commons)
+
+How much provenance information has been captured to facilitate data reuse?
+Fully recorded in a machine-readable format
+"
