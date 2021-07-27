@@ -22,7 +22,7 @@ $ pip install requests
 
 ### Creating the CSV file
 
-Create a csv file (make sure your file ends in _.csv_) and make sure the column headings are included (see below for
+Create a csv file (make sure your file ends in _.csv_) and make sure the minimum column headings are included (see Example files)
 
 - How/where to download your program
 - Any modifications needed to be made to files/folders
